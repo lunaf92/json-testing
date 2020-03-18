@@ -1,5 +1,5 @@
 [
-    "1":{
+    {
         "id": 1,
         "title": "todo lists",
         "description": "todo lists",
@@ -15,7 +15,7 @@
             }
         }
     },
-    "2":{
+    {
         "id": 2,
         "title": "programming ideas",
         "description": "programming projects",
