@@ -1,24 +1,33 @@
 {
     "1":{
         "title": "todo lists",
-        "Description": "todo lists",
+        "description": "todo lists",
         "author":"Federico",
-        "17-03-2020":{
-            "body": "render single diary\nrender new diary\nsubmit new diary\nscroll diary pages"
-        },
-        "18-03-2020":{
-            "body": "create a database in firebase"
+        "pages":{
+            "1":{
+                "date":"2020-3-17",
+                "body":"render single diary\nrender new diary\nsubmit new diary\nscroll diary pages"
+            },
+            "2":{
+                "date": "2020-3-18",
+                "body":"create a database in firebase"
+            }
         }
     },
     "2":{
         "title": "programming ideas",
-        "Description": "programming projects",
+        "description": "programming projects",
         "author": "Federico",
-        "18-03-2020":{
-            "body": "diary app"
-        },
-        "17-03-2020":{
-            "body": "mobile web app zedland accomodations"
+        "pages":{
+            "1":{
+                "date": "2020-3-17",
+                "body": "mobile web app zedland accomodations"   
+            },
+            "2":{
+                "date":"2020-3-17",
+                "body":"diary app"
+            }
+            
         }
     }
 }
